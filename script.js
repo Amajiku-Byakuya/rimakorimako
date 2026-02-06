@@ -15,7 +15,11 @@ const NORMAL_IMAGES = [
   "image/23059cfa75d8fa56.png",
   "image/bd77abd04c55938c.png",
   "image/c4f61fc2368a5964.png",
-  "image/IMG_2038.png"
+  "image/IMG_2038.png",
+  "image/ChatGPT_Image_202626_12_44_09.png",
+  "image/ChatGPT_Image_202626_12_47_17.png",
+  "image/ChatGPT_Image_202626_12_51_59.png",
+  "image/ChatGPT_Image_202626_12_55_16.png"
 ];
 
 const RARE_IMAGES = [
