@@ -23,7 +23,8 @@ const NORMAL_IMAGES = [
 ];
 
 const RARE_IMAGES = [
-  "image/ChatGPT_Image_202626_12_29_22.png"
+  "image/ChatGPT_Image_202626_12_29_22.png",
+  "image/ChatGPT_Image_202626_16_21_01.png"
 ];
 
 // レア出現率（5%）
